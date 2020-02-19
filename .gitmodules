@@ -1,0 +1,3 @@
+[submodule "Assets/MassiveGrass"]
+	path = Assets/MassiveGrass
+	url = git@github.com:mewlist/MassiveGrass.git

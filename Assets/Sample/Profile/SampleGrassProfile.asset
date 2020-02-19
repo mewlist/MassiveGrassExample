@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c793b0f7de44a2f9666b4eb984b066, type: 3}
+  m_Name: SampleGrassProfile
+  m_EditorClassIdentifier: 
+  TerrainLayers:
+  - {fileID: 8574412962073106934, guid: 9ca0492605327fb499fb15f1f0b86b3b, type: 2}
+  - {fileID: 8574412962073106934, guid: 9fa486da2ed03504785aac85e8bc82e7, type: 2}
+  Scale: {x: 1, y: 1.5}
+  Radius: 200
+  GridSize: 50
+  Slant: 0.1
+  GroundOffset: 0
+  AmountPerBlock: 1500
+  Material: {fileID: 2100000, guid: 470b29f8e72d20f41ae6d3b55795790d, type: 2}
+  Layer: 0
+  AlphaMapThreshold: 0.5
+  DensityFactor: 0.5
+  CastShadows: 0
+  BuilderType: 5
+  Mesh: {fileID: 4300000, guid: 38695b293c9425242ad10debf1b82439, type: 3}
+  NormalType: 1
+  UV1Z:
+    OutDataType: 0
+  UV1W:
+    OutDataType: 0
+  VertexColorR:
+    OutDataType: 0
+  VertexColorG:
+    OutDataType: 0
+  VertexColorB:
+    OutDataType: 0
+  VertexColorA:
+    OutDataType: 0
+  Seed: 0
+  HeightRange: {x: 0, y: 1000}
